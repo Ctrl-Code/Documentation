@@ -1,6 +1,6 @@
 
->#	Probleum Description
-A probleum occured when I deleted an entry of windows 10 bootloader while deleting some redundant entries by using a software named 'easyefi.exe' (available on windows platform only). After this I was unable to load the windows kernel. I did this out of curiosity though !
+>#	Problem Description
+A problem occured when I deleted an entry of windows 10 bootloader while deleting some redundant entries by using a software named 'easyefi.exe' (available on windows platform only). After this I was unable to load the windows kernel. I did this out of curiosity though !
 
 >#	System Configuration
 I am using an HP laptop, with dual booted UBUNTU 18.04 and WINDOWS 10 os.
